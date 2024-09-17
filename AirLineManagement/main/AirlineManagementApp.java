@@ -10,7 +10,6 @@ import staffs.Staff;
 import java.time.LocalDateTime;
 
 
-
 public class AirlineManagementApp {
     public static void main(String[] args) {
         Flight flight = new Flight(101, "SHG", "BLR", LocalDateTime.now(), LocalDateTime.now().plusHours(6), "Scheduled");
