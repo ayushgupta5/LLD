@@ -3,8 +3,9 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/E-commerce" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Zomatto" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/AirLineManagement" />
+      <excludeFolder url="file://$MODULE_DIR$/E-commerce" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
