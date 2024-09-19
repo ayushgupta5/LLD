@@ -3,10 +3,11 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/Google_Calender" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Google_Meet" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/AirLineManagement" />
       <excludeFolder url="file://$MODULE_DIR$/E-commerce" />
       <excludeFolder url="file://$MODULE_DIR$/Zomatto" />
+      <excludeFolder url="file://$MODULE_DIR$/Google_Calender" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
