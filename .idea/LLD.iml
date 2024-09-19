@@ -3,6 +3,7 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/GoogleMap" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Rate_Limiter" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/AirLineManagement" />
       <excludeFolder url="file://$MODULE_DIR$/E-commerce" />
