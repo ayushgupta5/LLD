@@ -17,7 +17,6 @@ This class manages displaying the map, zooming, and setting the map center.
 - **setCenter(location: Location)**: Sets the center of the map to the given location.
 - **zoomIn()**: Increases the zoom level.
 - **zoomOut()**: Decreases the zoom level.
-
 ---
 
 ### 2. **Location**
