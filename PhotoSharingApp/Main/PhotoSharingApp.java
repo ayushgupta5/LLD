@@ -24,7 +24,6 @@ public class PhotoSharingApp {
         userServices.register(user1);
         userServices.login(user1);
 
-
         userServices.register(user2);
         userServices.login(user2);
 
