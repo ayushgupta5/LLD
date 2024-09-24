@@ -29,7 +29,6 @@ public class PhotoSharingApp {
 
         userServices.followUser(user1, user2);
 
-
         LocalDateTime currentTime = LocalDateTime.now();
         Photo photo = new Photo(1, "Trip", "Url", PrivacyEnum.PUBLIC, currentTime);
         userServices.uploadPhoto(photo);
